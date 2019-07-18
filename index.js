@@ -1,5 +1,5 @@
 function Arrays(){
-kittens = ["Milo", "Otis", "Garfield"] 
+kittens = ['Milo', 'Otis', 'Garfield'] 
 }
 //define your array here
 Arrays();

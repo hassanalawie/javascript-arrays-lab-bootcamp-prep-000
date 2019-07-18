@@ -8,4 +8,6 @@ function destructivelyPrependKitten(name){
 function destructivelyRemoveLastKitten(){
   return kittens.pull()
 }
-function 
+function destructivelyRemoveFirstKitten(){
+  return kittens.shift()
+}

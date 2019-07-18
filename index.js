@@ -1,15 +1,2 @@
-function Arrays(){
-  function kittens()
-  {
-     kittens = `var kittens = ["Milo", "Otis", "Garfield"]`
-    return kittens
-  }
-//define your array here
-
-// Add your functions and code here
-function destructivelyAppendKitten(kittens){
-kittens.push("Ralph")
-return kittens
-}
-}
+var kittens=["Milo","Otis","Garfield"]
 

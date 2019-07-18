@@ -5,7 +5,3 @@ var kittens = ["Milo", "Otis", "Garfield"]
 element='Ralph'
 
 
-function destructivelyAppendKitten(kittens,element){
-  kittens.push(element)
-  return kittens
-  }

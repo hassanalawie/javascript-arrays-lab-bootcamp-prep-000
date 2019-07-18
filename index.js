@@ -1,7 +1,7 @@
 function Arrays(){
   function kittens()
   {
-    var kittens = `var kittens = ["Milo", "Otis", "Garfield"]`
+     kittens = `var kittens = ["Milo", "Otis", "Garfield"]`
     return kittens
   }
 //define your array here

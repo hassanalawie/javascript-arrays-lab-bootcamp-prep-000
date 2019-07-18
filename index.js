@@ -1,11 +1,11 @@
 function Arrays(){
-var kittens = ["Milo", "Otis", "Garfield"] 
+kittens = ["Milo", "Otis", "Garfield"] 
 }
 //define your array here
-
+Arrays();
 // Add your functions and code here
-function des
+function destructivelyAppendKitten(kittens){
 kittens.push("Ralph")
-
+}
 
 
